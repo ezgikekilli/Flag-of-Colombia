@@ -1,0 +1,20 @@
+body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.yellow {
+    background: #FCD116;
+    height: 100px;
+}
+
+.blue {
+    background: #003893;
+    height: 50px;
+}
+
+.red {
+    background: #CE1126;
+    height: 50px;
+}
+
